@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WangXinyuanCSU
-- 👀 I’m interested in DeepLearning and Machine Learning
+- 👀 I’m interested in Deep Learning and Machine Learning
 - 🌱 I’m currently learning Central South University
-- 💞️ I’m looking to collaborate on CNN Visualization, Object Classification, Object Detection.
+- 💞️ I’m looking to collaborate on CNN Visualization, Image Classification, Object Detection.
 - 📫 How to reach me: 15848374206@163.com
 
 <!---
